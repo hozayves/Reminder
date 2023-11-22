@@ -8,12 +8,12 @@ export function About() {
         This is the demo app for the{" "}
         <a
           className="underline"
-          href="https://miragejs.com/tutorial"
+          href="https://www.github.com/hozayves"
           style={{
             textDecorationColor: "#64748b",
           }}
         >
-          Mirage JS Tutorial
+          hozayves 😎
         </a>
         .
       </p>
