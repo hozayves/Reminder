@@ -7,6 +7,7 @@ export function About() {
       <p className="mt-6">
         This is the demo app for the{" "}
         <a
+          target="_blank"
           className="underline"
           href="https://www.github.com/hozayves"
           style={{
