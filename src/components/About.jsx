@@ -9,7 +9,7 @@ export function About() {
         <a
           target="_blank"
           className="underline"
-          href="https://www.github.com/hozayves"
+          href="https://www.github.com/hozayves/Reminder"
           style={{
             textDecorationColor: "#64748b",
           }}
